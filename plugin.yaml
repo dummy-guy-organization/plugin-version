@@ -7,20 +7,20 @@ platforms:
   - selector: # optional
       os: linux
       arch: amd64
-    uri: https://github.com/aquasecurity/trivy-plugin-aqua/releases/download/v0.89.5-dotnet/linux_amd64_v0.89.5-dotnet.tar.gz
+    uri: https://github.com/aquasecurity/trivy-plugin-aqua/releases/download/v0.89.6-dotnet/linux_amd64_v0.89.6-dotnet.tar.gz
     bin: ./aqua
   - selector:
       os: linux
       arch: arm64
-    uri: https://github.com/aquasecurity/trivy-plugin-aqua/releases/download/v0.89.5-dotnet/linux_arm64_v0.89.5-dotnet.tar.gz
+    uri: https://github.com/aquasecurity/trivy-plugin-aqua/releases/download/v0.89.6-dotnet/linux_arm64_v0.89.6-dotnet.tar.gz
     bin: ./aqua
   - selector:
       os: darwin
       arch: amd64
-    uri: https://github.com/aquasecurity/trivy-plugin-aqua/releases/download/v0.89.5-dotnet/darwin_amd64_v0.89.5-dotnet.tar.gz
+    uri: https://github.com/aquasecurity/trivy-plugin-aqua/releases/download/v0.89.6-dotnet/darwin_amd64_v0.89.6-dotnet.tar.gz
     bin: ./aqua
   - selector:
       os: darwin
       arch: arm64
-    uri: https://github.com/aquasecurity/trivy-plugin-aqua/releases/download/v0.89.5-dotnet/darwin_arm64_v0.89.5-dotnet.tar.gz
+    uri: https://github.com/aquasecurity/trivy-plugin-aqua/releases/download/v0.89.6-dotnet/darwin_arm64_v0.89.6-dotnet.tar.gz
     bin: ./aqua
